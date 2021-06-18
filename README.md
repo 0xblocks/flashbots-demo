@@ -34,5 +34,6 @@ Next, you need some eth. You can request some from the [Goerli social faucet](ht
 Once you have a wallet with some eth, and you've setup your `.env` file, you're ready to run the bot
 
 ```
+go get
 make run
 ```
